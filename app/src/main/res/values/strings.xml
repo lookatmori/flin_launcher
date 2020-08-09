@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Flin Launcher</string>
+    <string name="text_loading_warning">Загрузка последней версии клиента...\n\tПожалуйста, не закрывайте и не\n\t\t\t\tсворачивайте приложение</string>
+</resources>
